@@ -1,2 +1,2 @@
 # MyHealthTracker
-Daily Step Tracking analysisng
+Daily Step Tracking analyzing
